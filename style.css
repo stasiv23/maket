@@ -43,4 +43,14 @@
         font-family: 'Playfair Display', serif;
     font-size: 14px;
     }
+    .container{
+        width: 906px;
+        margin: 0 auto;
+        border: 2px solid red;
+    }
+    .btn-wrapper{
+        margin: 0 auto;
+        display: flex;
+        width: 200px;
+        }
 
